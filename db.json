@@ -1,0 +1,24 @@
+{
+  "license": [
+    { "userid" : "7c3d1116-f353-418a-8f80-09f467233525",
+    "id" : 0,
+  "receivedOn" : null,
+  "userName" : null,
+  "password" : "MGQCMCEZWOb1E8E8qsCPpIe9QtPVP0UZSUaRWYUHElR+6j4K7NSMIdMg4BYNm9Y+u9lv3QIwSaGKMid+kocclUBZ3Og8Yn1mswQmxpt30pG2LWQrTOUt+oEz/Dg1HIEGgpEcBDmH",
+  "firstName" : null,
+  "lastName" : null,
+  "email" : "R@gmail.com",
+  "company" : "KPIT",
+  "contact" : "ABC",
+  "local" : null,
+  "hardwareId" : "-1710934693",
+  "featureName" : null,
+  "featureVersion" : null,
+  "reasonofRequest" : 0,
+  "orderNumber" : null,
+  "otherRequestComments" : null,
+  "systemUser" : null,
+  "processedOn" : null,
+  "enabled" : false }
+  ]
+}
